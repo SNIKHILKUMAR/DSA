@@ -1,0 +1,2 @@
+a="nikhil"
+print(a)
